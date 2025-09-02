@@ -307,7 +307,8 @@ Propositional logic.
 
 ////////////////////////////////////////
 
-Which ones are propositions?
+Which ones are propositions? ( true or false) 
+ propositional atom: as simple of a proposition 
 
 Today is Thursday.
 
@@ -343,19 +344,19 @@ Suppose we have these propositional atoms:
 
 How would we express these as English sentences?
 
-    ¬p:
+    ¬p: It is not below freezing 
 
 
-    p ∧ q:
+    p ∧ q: it is below freezing and it's not snowing 
 
 
-    p → q :
+    p → q : if it's below freezing then it's not snowing 
 
 
-    ¬p → ¬q:
+    ¬p → ¬q: if it's not below freezing then it's not snowing 
 
 
-    r ∨ s:
+    r ∨ s: 
 
     ¬r:
 
